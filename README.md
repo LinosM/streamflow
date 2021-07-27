@@ -59,8 +59,8 @@ In that page you are able to create, read, update notes relevant to a project or
 	
 ![preview1](https://i.imgur.com/kq31zOi.png)
 ![preview2](https://i.imgur.com/lpCjglg.png)
-![preview3](https://i.imgur.com/LWP9u78.png)
 ![preview5](https://i.imgur.com/P7lk5si.png)
+![preview3](https://i.imgur.com/LWP9u78.png)
 
 <a name="links">
 
