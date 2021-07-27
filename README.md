@@ -6,6 +6,7 @@ React Project Management App with simple Auth, and Chat App.
 - [Installation](#installation)
 - [Messaging](#messaging)
 - [Notes](#notes)
+- [Preview](#preview)
 - [Links](#links)
 - [Contributors](#contributors)
 - [Technology Used](#tech)
@@ -49,7 +50,17 @@ Few improvements can be added as:
 
 # Notes
 In that page you are able to create, read, update notes relevant to a project or task.
-![images](client/public/images/notes.jpg)
+	
+![images](https://i.imgur.com/FBECvJC.png)
+	
+<a name="preview">
+	
+# Preview
+	
+![preview1](https://i.imgur.com/kq31zOi.png)
+![preview2](https://i.imgur.com/lpCjglg.png)
+![preview3](https://i.imgur.com/LWP9u78.png)
+![preview5](https://i.imgur.com/P7lk5si.png)
 
 <a name="links">
 
@@ -70,7 +81,7 @@ In that page you are able to create, read, update notes relevant to a project or
 # Technology Used
 	
 - React
--	JSX
+- JSX
 - JavaScript
 - NodeJS
 - Bulma
