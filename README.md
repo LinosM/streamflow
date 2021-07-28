@@ -4,6 +4,7 @@ React Project Management App with simple Auth, and Chat App.
 # Table of Content
 - [Description](#description)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Messaging](#messaging)
 - [Notes](#notes)
 - [Preview](#preview)
@@ -20,10 +21,17 @@ In addition to tracking projects and tasks, StreamFlow supports teams and projec
 
 <a name="installation">
 
-# Installation
-```
-npm i
-```
+## Installation
+
+#### Prerequisites
+
+* [Node.js](https://nodejs.org/en/download/)
+
+Download the project and run `npm i` in the directory to install the required packages
+
+## Usage
+
+Run `npm start` to start the application and it'll automatically open in your default web browser
 
 <a name="messaging">
 
